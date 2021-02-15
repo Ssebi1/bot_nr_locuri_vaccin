@@ -14,7 +14,7 @@ For Linux:
 <li>Python has to be installed</li>
 <li>startLinux.sh needs to have permission to execute from settings</li>
 <li>to run type in terminal ./startLinux.sh</li>
-
+<br><br>
 For Windows:
 <li>Python has to be installed</li>
 <li>run startWindows.bat</li>
