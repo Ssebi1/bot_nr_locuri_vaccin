@@ -1,1 +1,1 @@
-# bot_nr_locuri_vaccin
+# Bot Python Numar Locuri Libere Vaccin
